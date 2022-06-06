@@ -10,7 +10,7 @@
 <channel>
 	<title>VOLVER</title>
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>http://dugdoi689.github.io/mywordpress</link>
+	<link>https://dugdoi689.github.io/mywordpress</link>
 	<description>HOTEL BOOKING</description>
 	<lastBuildDate>Mon, 23 May 2022 06:55:27 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://dugdoi689.github.io/mywordpress/blog/hello-world/</link>
-					<comments>http://dugdoi689.github.io/mywordpress/blog/hello-world/#comments</comments>
+		<link>https://dugdoi689.github.io/mywordpress/blog/hello-world/</link>
+					<comments>https://dugdoi689.github.io/mywordpress/blog/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[pmd]]></dc:creator>
 		<pubDate>Mon, 23 May 2022 06:55:27 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://dugdoi689.github.io/mywordpress/?p=1</guid>
+		<guid isPermaLink="false">https://dugdoi689.github.io/mywordpress/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://dugdoi689.github.io/mywordpress/blog/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://dugdoi689.github.io/mywordpress/blog/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
